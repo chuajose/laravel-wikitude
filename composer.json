@@ -1,0 +1,13 @@
+{
+    "name": "jose/wikitude",
+    "description": "Conexion a wikitude",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jose Suaerz",
+            "email": "chua.jose@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
